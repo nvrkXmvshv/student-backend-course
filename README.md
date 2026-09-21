@@ -7,4 +7,4 @@
 
 | Работа | Технологии | Статус | Ссылка |
 |--------|------------|--------|--------|
-| 1 | Node.js + Express | Выполнено | `/lab1-first-http-server` |
+| 1 | Node.js + Express | Выполнено | [lab1-first-http-server](https://github.com/nvrkXmvshv/student-backend-course/tree/main/lab1-first-http-server) |
